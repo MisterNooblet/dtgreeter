@@ -1,0 +1,27 @@
+{
+  "name": "dtgreeter",
+  "version": "1.0.0",
+  "description": "A utility function that returns a greeting according to the users daytime , Good morning | afternoon | evening | night. Can recieve an optional parameter which is the name of the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "greet",
+    "greeting",
+    "utility",
+    "time",
+    "daytime",
+    "morning",
+    "afternoon",
+    "evening",
+    "night",
+    "user"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MisterNooblet/dtgreeter.git"
+  },
+  "author": "Artyom Ribakov(MisterNooblet)",
+  "license": "MIT"
+}
